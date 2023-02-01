@@ -8,6 +8,7 @@ public abstract class Coin implements ICalculate {
 }
 
 
+
 //public abstract class Coin implements ICalculate {
 //    /**
 //     * Abstract method to get the value of the coin
