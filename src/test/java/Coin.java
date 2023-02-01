@@ -6,6 +6,7 @@ public abstract class Coin implements ICalculate {
         return value;
     }
 }
+
 //public abstract class Coin implements ICalculate {
 //    /**
 //     * Abstract method to get the value of the coin
