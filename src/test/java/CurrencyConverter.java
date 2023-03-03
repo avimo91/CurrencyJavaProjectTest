@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Main {
+public class CurrencyConverter {
 
     /**
      * This is the main function that runs the currency conversion program.
